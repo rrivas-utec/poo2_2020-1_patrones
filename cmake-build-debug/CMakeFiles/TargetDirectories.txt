@@ -1,3 +1,0 @@
-C:/Users/rudri/CLionProjects/poo2_2020-1_patrones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/rudri/CLionProjects/poo2_2020-1_patrones/cmake-build-debug/CMakeFiles/poo2_2020-1_patrones.dir
-C:/Users/rudri/CLionProjects/poo2_2020-1_patrones/cmake-build-debug/CMakeFiles/edit_cache.dir

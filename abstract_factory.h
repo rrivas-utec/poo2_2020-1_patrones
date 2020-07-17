@@ -6,10 +6,7 @@
 #define POO2_2020_1_PATRONES_ABSTRACT_FACTORY_H
 
 #include <memory>
-
-class shape_t;
-
-using shape_ptr = std::shared_ptr<shape_t>;
+#include "abstract_shape.h"
 
 class abstract_factory_t {
 public:
